@@ -1,0 +1,29 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa todo dia à meia-noite (UTC)
+  workflow_dispatch:      # Permite execução manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman graph
+        uses: Platane/pacman-snake@main
+        with:
+          github_user_name: PedroLemosMariano
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg
+
+      - name: Commit files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: actions@github.com
+          message: "chore: update Pacman contribution graph"
+          add: "./output/*.svg"
