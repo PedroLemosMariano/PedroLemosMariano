@@ -25,6 +25,13 @@
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroLemosMariano&show_icons=true&theme=dracula&locale=pt-br" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLemosMariano&layout=compact&theme=dracula&locale=pt-br" height="150" alt="Top languages" />
+</div>
+
+---
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLemosMariano&theme=dracula&locale=pt-br" height="150" alt="GitHub streak stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=PedroLemosMariano&theme=dracula&no-bg=true&margin-w=10&margin-h=10" height="150" alt="GitHub trophies" />
 </div>
