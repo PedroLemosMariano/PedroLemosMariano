@@ -4,16 +4,7 @@
 
 ---
 
-<style>
-  .tech-icons img {
-    transition: transform 0.2s ease;
-  }
-  .tech-icons img:hover {
-    transform: scale(1.15);
-  }
-</style>
-
-<div align="center" class="tech-icons">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" alt="skills logos" />
 </div>
 
