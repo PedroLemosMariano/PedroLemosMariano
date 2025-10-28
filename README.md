@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, What's Up?</h1>
 
-<h3 align="center">Sou Pedro Lemos, estudante de Sistemas de Informação na UFV - Campus Rio Paranaíba 🚀</h3>
+<h3 align="center">Sou Pedro Lemos, Graduado em Sistemas de Informação na UFV - Campus Rio Paranaíba 🚀</h3>
 
 ---
 
