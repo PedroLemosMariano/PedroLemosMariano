@@ -25,6 +25,6 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PedroLemosMariano&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLemosMariano&theme=dracula&locale=pt-br" height="150" alt="GitHub streak stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=PedroLemosMariano&theme=dracula&no-bg=true&margin-w=10&margin-h=10" height="150" alt="GitHub trophies" />
 </div>
