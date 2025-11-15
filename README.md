@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,py,ts,js,html,css,tailwind,nextjs,go,rust,postgres,unity,aws,git,vscode,figma,linux,docker" height="60" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=c,cs,py,js,html,css,postgres,unity,aws,git,vscode,figma,linux,docker" height="60" alt="skills logos" />
 </div>
 
 
