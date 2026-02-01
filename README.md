@@ -35,15 +35,3 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroLemosMariano&theme=dracula)
 
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PedroLemosMariano&theme=dracula)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=PedroLemosMariano&theme=dracula&no-bg=true&margin-w=10)
