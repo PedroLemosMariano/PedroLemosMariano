@@ -19,6 +19,7 @@ Sou Pedro Lemos, Graduado em Sistemas de Informação na UFV - Campus Rio Parana
 <div align="center">
 📄 <b>Aventura Fracionada: Jogo educativo sobre frações e suas operações aritméticas</b><br>
 Artigo submetido ao XVI Workshop de Sistemas de Informação / Artigos Curtos – Campus Rio Paranaíba.
+  
 [Leia o artigo completo no portal da SBC](https://sol.sbc.org.br/index.php/wsis/article/view/37649)
 </div>
 
