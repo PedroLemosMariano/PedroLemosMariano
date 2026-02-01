@@ -1,37 +1,37 @@
-# 👋 Hey, What's Up?
+<h1 align="center">👋 Hey, What's Up?</h1>
 
-### Sou Pedro Lemos, Graduado em Sistemas de Informação na UFV - Campus Rio Paranaíba 🚀
+<h3 align="center">
+Sou Pedro Lemos, Graduado em Sistemas de Informação na UFV - Campus Rio Paranaíba 🚀
+</h3>
 
----
+<hr>
 
-## 🛠️ Tecnologias
+<h2 align="center">🛠️ Tecnologias</h2>
 
-![C](https://skillicons.dev/icons?i=c)
-![C#](https://skillicons.dev/icons?i=cs)
-![Python](https://skillicons.dev/icons?i=py)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Unity](https://skillicons.dev/icons?i=unity)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Git](https://skillicons.dev/icons?i=git)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,py,js,html,css,postgres,unity,aws,git,vscode,figma,linux,docker" />
+</p>
 
----
+<hr>
 
-## 🌐 Contato
+<h2 align="center">🌐 Contato</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lemos-580515299/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrolemosm/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.lemosmariano@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-lemos-580515299/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pedrolemosm/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:pedro.lemosmariano@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
+<hr>
 
-## 📊 GitHub Activity
+<h2 align="center">📊 GitHub Activity</h2>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroLemosMariano&theme=dracula)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroLemosMariano&theme=dracula&hide_border=true" />
+</p>
