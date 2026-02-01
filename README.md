@@ -14,37 +14,12 @@ Sou Pedro Lemos, Graduado em Sistemas de Informação na UFV - Campus Rio Parana
 
 <hr>
 
-<h2 align="center">⭐ Projetos em Destaque</h2>
-
-<div align="center">
-
-🎮 <b>Aventura Fracionada</b><br>
-Jogo educativo sobre frações e operações aritméticas, desenvolvido em Unity.<br><br>
-
-🗓️ <b>Marque Aqui</b><br>
-Sistema de agendamento de horários para múltiplos serviços.<br><br>
-
-🤖 <b>Simulador de Autômatos</b><br>
-Ferramenta em Python para AFN, AFD e Máquina de Turing.
-
-</div>
-
-<hr>
-
-<h2 align="center">🎮 Jogos & Unity</h2>
-
-<div align="center">
-Desenvolvimento de jogos 2D em Unity com foco em aplicações educacionais,<br>
-gameplay interativo e aprendizagem lúdica.
-</div>
-
-<hr>
-
 <h2 align="center">🎓 Produção Acadêmica</h2>
 
 <div align="center">
 📄 <b>Aventura Fracionada: Jogo educativo sobre frações e suas operações aritméticas</b><br>
-Artigo submetido à VII Mostra de Jogos Digitais da UFV – Campus Rio Paranaíba.
+Artigo submetido ao XVI Workshop de Sistemas de Informação / Artigos Curtos – Campus Rio Paranaíba.
+[Leia o artigo completo no portal da SBC](https://sol.sbc.org.br/index.php/wsis/article/view/37649)
 </div>
 
 <hr>
