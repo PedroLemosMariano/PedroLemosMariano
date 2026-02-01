@@ -31,11 +31,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLemosMariano&show_icons=true&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=PedroLemosMariano&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLemosMariano&layout=compact&theme=dracula)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PedroLemosMariano&theme=dracula&no-bg=true)
+
 
 ---
 
