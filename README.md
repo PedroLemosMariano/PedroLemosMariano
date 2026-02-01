@@ -1,44 +1,50 @@
-<h1 align="center">👋 Hey, What's Up?</h1>
+# 👋 Hey, What's Up?
 
-<h3 align="center">
-Sou Pedro Lemos, Graduado em Sistemas de Informação na UFV - Campus Rio Paranaíba 🚀
-</h3>
+### Sou Pedro Lemos, Graduado em Sistemas de Informação na UFV - Campus Rio Paranaíba 🚀
 
 ---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,py,js,html,css,postgres,unity,aws,git,vscode,figma,linux,docker" height="60" alt="skills logos" />
-</div>
+## 🛠️ Tecnologias
+
+![C](https://skillicons.dev/icons?i=c)
+![C#](https://skillicons.dev/icons?i=cs)
+![Python](https://skillicons.dev/icons?i=py)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Unity](https://skillicons.dev/icons?i=unity)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Git](https://skillicons.dev/icons?i=git)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Docker](https://skillicons.dev/icons?i=docker)
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-lemos-580515299/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/pedrolemosm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="Instagram" />
-  </a>
-  <a href="mailto:pedro.lemosmariano@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Gmail" />
-  </a>
-</div>
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lemos-580515299/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrolemosm/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.lemosmariano@gmail.com)
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroLemosMariano&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLemosMariano&layout=compact&theme=dracula" height="150" alt="Top languages" />
-</div>
+## 📊 GitHub Stats
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLemosMariano&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLemosMariano&layout=compact&theme=dracula)
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PedroLemosMariano&theme=dracula" height="150" alt="GitHub streak stats" />
-</div>
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PedroLemosMariano&theme=dracula)
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroLemosMariano&theme=dracula&no-bg=true&margin-w=10" height="150" alt="GitHub trophies" />
-</div>
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PedroLemosMariano&theme=dracula&no-bg=true&margin-w=10)
