@@ -1,13 +1,14 @@
 <h1 align="center">👋 Hey, What's Up?</h1>
 
-<h3 align="center">Sou Pedro Lemos, Graduado em Sistemas de Informação na UFV - Campus Rio Paranaíba 🚀</h3>
+<h3 align="center">
+Sou Pedro Lemos, Graduado em Sistemas de Informação na UFV - Campus Rio Paranaíba 🚀
+</h3>
 
 ---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,py,js,html,css,postgres,unity,aws,git,vscode,figma,linux,docker" height="60" alt="skills logos" />
 </div>
-
 
 ---
 
@@ -18,7 +19,7 @@
   <a href="https://www.instagram.com/pedrolemosm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="Instagram" />
   </a>
-  <a href="mailto:pedro.lemosmariano@gmail.com" target="_blank">
+  <a href="mailto:pedro.lemosmariano@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Gmail" />
   </a>
 </div>
@@ -26,13 +27,18 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroLemosMariano&show_icons=true&theme=dracula&locale=pt-br" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLemosMariano&layout=compact&theme=dracula&locale=pt-br" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroLemosMariano&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLemosMariano&layout=compact&theme=dracula" height="150" alt="Top languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLemosMariano&theme=dracula&locale=pt-br" height="150" alt="GitHub streak stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroLemosMariano&theme=dracula&no-bg=true&margin-w=10&margin-h=10" height="150" alt="GitHub trophies" />
+  <img src="https://streak-stats.demolab.com?user=PedroLemosMariano&theme=dracula" height="150" alt="GitHub streak stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PedroLemosMariano&theme=dracula&no-bg=true&margin-w=10" height="150" alt="GitHub trophies" />
 </div>
